@@ -54,7 +54,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ├── notebooks/             # Jupyter notebooks
 ├── images/                # Visualizations exported from notebooks
 ├── requirements.txt       # Dependencies
-├── LICENSE                # License file (MIT)
+├── Code                   
 ├── README.md              # Project overview (this file)
 ```
 
@@ -99,7 +99,11 @@ Here are some key visualizations from the analysis:
   ![Regulation Impact](images/regulation_impact.png)
 
 ---
+CODE : 
+code of project on kaggle :
 
+
+link :https://www.kaggle.com/code/vaibhavjitendrapatil/airbnb-jason
 
 ---
 
