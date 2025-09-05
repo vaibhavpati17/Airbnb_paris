@@ -66,7 +66,7 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 
    ```bash
    git clone https://github.com/your-username/airbnb-paris-analysis.git
-   cd airbnb-paris-analysis
+   cd airbnb-jason
    ```
 
 2. Install dependencies
