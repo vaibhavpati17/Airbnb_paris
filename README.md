@@ -103,7 +103,8 @@ CODE :
 code of project on kaggle :
 
 
-link :https://www.kaggle.com/code/vaibhavjitendrapatil/airbnb-jason
+link :Check out my project on Kaggle: [Click here to Open Project](https://www.kaggle.com/code/vaibhavjitendrapatil/airbnb-jason)
+
 
 ---
 
